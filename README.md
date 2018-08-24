@@ -1,3 +1,3 @@
 # testing-project-mgmt
 
-Playing around with the Projects feature
+Check out the [Project Board](https://github.com/pronouncedJerry/testing-project-mgmt/projects) and the [Wiki](https://github.com/pronouncedJerry/testing-project-mgmt/wiki).
